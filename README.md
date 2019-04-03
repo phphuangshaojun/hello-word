@@ -1,2 +1,4 @@
 # hello-word
-你好，GitHub
+php 是世界上最好的语言
+PHP 是世界上最好的语言
+PHP 是世界上最好的语言
